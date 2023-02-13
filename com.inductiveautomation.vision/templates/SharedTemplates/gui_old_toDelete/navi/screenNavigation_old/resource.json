@@ -1,0 +1,16 @@
+{
+  "scope": "C",
+  "version": 1,
+  "restricted": true,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "rok.zupan",
+      "timestamp": "2022-02-11T07:54:43Z"
+    },
+    "lastModificationSignature": "8a4c98a1d8b142feeda9c4996d70e9ef5258fd45601a51c036210f4b1816a09f"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2023-02-09T06:39:05Z"
+    },
+    "xml-format-version": 1,
+    "parameter-names": "cooking_id,curing_expected_end_date,curve,oven_id,oven_number,running_segment,start_date",
+    "lastModificationSignature": "fcb2c7ab01587e281d45c87a07763a4273a6ae6fc53a66f55ea5509339ec3472"
+  }
+}

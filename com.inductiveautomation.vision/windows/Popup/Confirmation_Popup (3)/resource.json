@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2023-02-09T06:05:56Z"
+    },
+    "xml-format-version": 1,
+    "parameter-names": "curve,dly_start_date,oven_id,oven_no,oven_number,page,popup_msessage,popup_title,start_type",
+    "lastModificationSignature": "2156f21128746fc4fcbc077b8ce43ac1663002cc3f3f5748823bd5a3368d4d7f"
+  }
+}

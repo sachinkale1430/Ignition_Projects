@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2023-02-09T04:38:42Z"
+    },
+    "xml-format-version": 1,
+    "parameter-names": "constant,curve,lock,oven,oven_id,pre_constant,pre_lock,sp1,sp2,sp3,sp4,sp5,sp6",
+    "lastModificationSignature": "a2ed4eb57d70600b77650928c4bd3f9e8af6440d53ad1f9e83c6024e0353d92c"
+  }
+}

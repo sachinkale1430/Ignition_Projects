@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "patrik.pusnik",
+      "timestamp": "2022-04-20T10:13:55Z"
+    },
+    "lastModificationSignature": "7e17453280ecbcab1adb5d60e12a6cb1fa64af41de7b8550419c1078e1a74463"
+  }
+}

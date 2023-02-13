@@ -1,0 +1,16 @@
+{
+  "scope": "C",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "bojan.stoprd",
+      "timestamp": "2021-07-07T13:16:10Z"
+    },
+    "lastModificationSignature": "e9d7bb62d7bd9b1701c6ad8d0b13c352e7fc0e2cbf3f60f3bdd833798f577b05"
+  }
+}

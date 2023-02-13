@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "rok.zupan",
+      "timestamp": "2022-01-24T16:51:46Z"
+    },
+    "lastModificationSignature": "3bea22257ca04146cfc2bb9ea5dd1a222ae219ce172ad01c1b81bdafb21bffcf"
+  }
+}

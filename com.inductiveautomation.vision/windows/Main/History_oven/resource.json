@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2023-02-09T04:34:03Z"
+    },
+    "xml-format-version": 1,
+    "parameter-names": "MaterialNum,cavities,equipmentName,equipmentPath,ignitionTagPath,liveAnalysisPath,systemHourBefore,systemHourBottom,systemNow,targetCT",
+    "lastModificationSignature": "d0896776b800e7c033d7b896e802335f890b911f2b4cc86372a6de1e58a9e52c"
+  }
+}

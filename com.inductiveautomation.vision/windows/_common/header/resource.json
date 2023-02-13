@@ -1,0 +1,20 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2023-02-09T05:46:00Z"
+    },
+    "xml-format-version": 1,
+    "open-on-start": true,
+    "parameter-names": "ignitionTagPath",
+    "lastModificationSignature": "fcbabdd009d23ad473adbe020f217b8c4abc29029127d923140dab8be249dbfb"
+  }
+}

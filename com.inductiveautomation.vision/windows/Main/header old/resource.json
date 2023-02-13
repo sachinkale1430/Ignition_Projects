@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "thumbnail.png",
+    "window.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "R6216460",
+      "timestamp": "2022-01-07T06:59:38Z"
+    },
+    "xml-format-version": 1,
+    "parameter-names": "ignitionTagPath",
+    "lastModificationSignature": "cbf6540afc7d86a0e82d98a5ce51d85733d32b144d418e207193f0cb17de2f5c"
+  }
+}

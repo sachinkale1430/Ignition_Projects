@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "izidor.felicijan",
+      "timestamp": "2022-01-11T10:15:43Z"
+    },
+    "lastModificationSignature": "8f3d8103648ae4a055d58695aa326c20dfe4ce5986ff00f73ed6bd58166882b8"
+  }
+}

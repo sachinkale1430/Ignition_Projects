@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "thumbnail.png",
+    "window.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "S3301301",
+      "timestamp": "2022-08-06T17:28:05Z"
+    },
+    "xml-format-version": 1,
+    "parameter-names": "curve,curve_name,oven_name",
+    "lastModificationSignature": "b99f26dee6010fcc2954444f9e49d479f7a17874f1b9b0e9140d815916a2c50a"
+  }
+}
